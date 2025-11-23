@@ -1,0 +1,45 @@
+/* Widen the content area for better readability */
+.measure,
+.measure-wide,
+.measure-narrow {
+  max-width: 100% !important;
+  width: 90% !important;
+}
+
+.nested-copy-line-height {
+  max-width: 100% !important;
+  width: 90% !important;
+}
+
+/* Wider content for article sections */
+article section.center,
+section.center {
+  max-width: 100% !important;
+  width: 90% !important;
+}
+
+/* Override any nested-links containers */
+.nested-links {
+  max-width: 100% !important;
+  width: 90% !important;
+}
+
+/* Wider main article content */
+article.pa3.pa4-ns,
+article {
+  max-width: 100% !important;
+  width: 90% !important;
+  margin: 0 auto !important;
+}
+
+/* Ensure content uses full available space */
+.lh-copy {
+  max-width: 100% !important;
+  width: 90% !important;
+}
+
+/* Target all content wrappers */
+.cf.ph3.ph5-l {
+  max-width: 100% !important;
+  width: 90% !important;
+}

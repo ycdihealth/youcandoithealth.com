@@ -3,6 +3,14 @@ languageCode = 'en-us'
 title = 'You Can Do It Health Coaching'
 theme = 'ananke'
 
+[params]
+  custom_css = ["css/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
