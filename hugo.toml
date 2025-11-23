@@ -3,17 +3,6 @@ languageCode = 'en-us'
 title = 'You Can Do It Health Coaching'
 theme = 'ananke'
 
-[params]
-  description = "Professional health coaching to help you achieve your wellness goals"
-  author = "You Can Do It Health Coaching"
-  background_color_class = "bg-near-white"
-  recent_posts_number = 3
-  featured_image = '/images/healthy_woman_exerci_3733c03b.jpg'
-  body_classes = "sans-serif"
-  post_content_classes = "sans-serif"
-  site_logo = ""
-  favicon = ""
-
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

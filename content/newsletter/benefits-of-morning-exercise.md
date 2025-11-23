@@ -2,7 +2,6 @@
 title = 'The Benefits of Morning Exercise'
 date = 2024-11-20T08:00:00-07:00
 draft = false
-featured_image = '/images/morning_exercise_wor_9d05736f.jpg'
 +++
 
 ## Start Your Day with Movement

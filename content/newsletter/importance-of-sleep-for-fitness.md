@@ -2,7 +2,6 @@
 title = 'The Importance of Sleep for Fitness Goals'
 date = 2024-11-10T08:00:00-07:00
 draft = false
-featured_image = '/images/person_sleeping_peac_ecdf6b1b.jpg'
 +++
 
 ## Rest and Recovery Matter
