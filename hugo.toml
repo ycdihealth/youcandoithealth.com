@@ -6,3 +6,29 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[menu]
+  [[menu.main]]
+    name = "Coaching"
+    url = "/coaching/"
+    weight = 1
+    
+  [[menu.main]]
+    name = "Meet Your Coach"
+    url = "/meet-your-coach/"
+    weight = 2
+    
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+    
+  [[menu.main]]
+    name = "Newsletter"
+    url = "/newsletter/"
+    weight = 4
+    
+  [[menu.main]]
+    name = "Book Now"
+    url = "/book-now/"
+    weight = 5
