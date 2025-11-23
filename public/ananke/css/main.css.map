@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/user/github.com/ycdihealth/youcandoithealth.com",
+	"sourceRoot": "/home/runner/workspace",
 	"sources": [
 		"ananke/css/main.css"
 	],
