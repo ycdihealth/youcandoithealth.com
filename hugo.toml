@@ -1,0 +1,8 @@
+baseURL = 'https://youcandoithealth.com/'
+languageCode = 'en-us'
+title = 'You Can Do It Health Coaching'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
