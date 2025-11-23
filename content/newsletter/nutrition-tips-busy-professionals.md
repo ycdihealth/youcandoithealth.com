@@ -2,6 +2,7 @@
 title = 'Nutrition Tips for Busy Professionals'
 date = 2024-11-15T08:00:00-07:00
 draft = false
+featured_image = '/images/healthy_food_nutriti_6596b4c3.jpg'
 +++
 
 ## Eating Well When Time is Short

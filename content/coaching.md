@@ -2,6 +2,7 @@
 title = 'Coaching Services'
 date = 2024-01-15T10:00:00-07:00
 draft = false
+featured_image = '/images/coaching_session_wel_60731512.jpg'
 +++
 
 ## Transform Your Health Journey
