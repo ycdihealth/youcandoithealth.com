@@ -7,9 +7,11 @@ draft = false
 
 Let’s team up and make a plan that fits your real life with simple habits, personalized guidance, and support every step of the way.
 
-{{< button href="https://calendly.com/youcandoithealth/free-discovery-call" >}}
-Let's Do This!
-{{< /button >}}
+<a href="https://calendly.com/youcandoithealth/free-discovery-call"
+   class="btn btn-primary">
+  Let's Do This!
+</a>
+
 
 
 ### Start Your Transformation Today
