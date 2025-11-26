@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/book-now/</loc>
+    <loc>http://localhost:45093/book-now/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:45093/categories/</loc>
   </url><url>
-    <loc>/coaching/</loc>
+    <loc>http://localhost:45093/coaching/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>http://localhost:45093/contact/</loc>
   </url><url>
-    <loc>/meet-your-coach/</loc>
+    <loc>http://localhost:45093/meet-your-coach/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:45093/tags/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:45093/</loc>
   </url>
 </urlset>

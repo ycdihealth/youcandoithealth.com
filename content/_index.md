@@ -7,13 +7,6 @@ draft = false
 
 Let’s team up and make a plan that fits your real life with simple habits, personalized guidance, and support every step of the way.
 
-<a href="https://calendly.com/youcandoithealth/free-discovery-call"
-   class="btn btn-primary">
-  Let's Do This!
-</a>
-
-
-
 ### Start Your Transformation Today
 
 Take the first step towards a healthier, happier you. Our coaching programs are designed to meet you where you are and guide you to where you want to be.
