@@ -1,30 +1,33 @@
 +++
 title = 'Meet Your Coach'
 draft = false
-featured_image = '/images/coach-photo.jpg'
 +++
 
-## About Your Health Coach
+Hi, I’m Andrea - a 44-year-old mom of two, Certified Nutrition Coach, and someone who has collected more medical plot twists than most TV dramas. I’ve navigated a complicated pregnancy, treatment for a rare tumor, a hysterectomy, and even open-heart surgery for a congenital defect. (If you ever need someone to fill out complicated hospital paperwork quickly, I’m your girl.)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vitae sapien vel nunc euismod tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Going through all of that completely reshaped how I think about health, stress, and self-care. Spoiler: it’s not about perfection, restriction, or pretending celery juice is a personality.
 
-### Professional Background
+With the help of my own coach, I rebuilt my habits from scratch. I left a high-stress career, healed my relationship with food, gave up alcohol, started resistance training, and even completed an 80-mile hike through the Cotswolds - yes, on purpose. And I learned one of the most life-changing truths out there: there are no “bad” foods, and fad diets deserve to retire permanently.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+Real change comes from building skills, self-compassion, and learning to choose what your body actually needs (instead of what the latest wellness trend told you to fear).
+Through loss, stress, and all the beautiful chaos of life, these skills helped me stay grounded instead of falling back into old patterns. That transformation inspired me to dive deep into nutrition science, behavior change, and sustainable habits…and eventually become a coach myself.
 
-### Certifications & Training
+Today, I’m here to support you with the same empathy, research-backed guidance, and cheerleading that helped me rebuild my own life. I’m your coach, your motivator, and the person who will remind you that you’re doing better than you think.
+Let’s help you feel strong, energized, and confident in your body, starting now.
 
-- **Certified Health Coach** - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-- **Nutrition Specialist** - Sed do eiusmod tempor incididunt ut labore et dolore
-- **Fitness Professional** - Ut enim ad minim veniam, quis nostrud exercitation
-- **Wellness Counselor** - Duis aute irure dolor in reprehenderit in voluptate
+Because truly… **You Can Do It.**
+![Coach Andrea hiking The Cotswold Way](/images/andrea.jpeg)
 
-### My Philosophy
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi.
+## Certifications & Training
 
-Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+- **Certified Nutrition Coach** - Precision Nutrition Level 1 Nutrition Coaching Certification
+- **Fitness Advancement Mentorship** - Active member of the Fitness Advancement Mentorship program led by Alan Aragon
 
-### Let's Work Together
+![Precision Nutrition Level 1 Certification Badge](/images/PN_badge_L1-N_225x225.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Ready to Start Your Journey?
+
+Let’s chat and see if we’re the right fit. Your free discovery call is a zero-pressure way to explore how coaching can help you feel your best.
+
+BUTTON: Book My Free Call
