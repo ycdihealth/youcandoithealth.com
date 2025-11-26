@@ -1,12 +1,16 @@
 +++
 title = 'You Can Do It Health Coaching'
 draft = false
-featured_image = '/images/hero-banner.jpg'
 +++
 
-## Welcome to Your Health Journey
+## Hey, You Deserve to Feel Amazing
 
-Transform your life with personalized health coaching that empowers you to achieve your wellness goals. Whether you're looking to improve your nutrition, increase your fitness, or create sustainable lifestyle changes, we're here to support you every step of the way.
+Let’s team up and make a plan that fits your real life with simple habits, personalized guidance, and support every step of the way.
+
+{{< button href="https://calendly.com/youcandoithealth/free-discovery-call" >}}
+Let's Do This!
+{{< /button >}}
+
 
 ### Start Your Transformation Today
 
