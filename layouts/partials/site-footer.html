@@ -1,0 +1,21 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex flex-column flex-row-ns justify-between items-start">
+    <div>
+      <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
+        &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+      </a>
+    </div>
+    
+    <!-- Footer Menu -->
+    {{ if .Site.Menus.footer }}
+    <div class="flex flex-wrap justify-center justify-end-ns pa3">
+      {{ range .Site.Menus.footer }}
+        <a href="{{ .URL }}" class="link white-70 hover-white mr3 mr4-ns mb2">{{ .Name }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+    
+    <!-- Social Follow -->
+    <div class="pa3">{{ partials.IncludeCached "social/follow.html" . }}</div>
+  </div>
+</footer>
