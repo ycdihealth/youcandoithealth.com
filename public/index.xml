@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>You Can Do It Health Coaching</title>
-    <link>http://localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on You Can Do It Health Coaching</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Your Free Discovery Call</title>
-      <link>http://localhost:1313/book-now/</link>
+      <link>/book-now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/book-now/</guid>
+      <guid>/book-now/</guid>
       <description>&lt;h2 id=&#34;lets-talk-about-your-goals&#34;&gt;Let&amp;rsquo;s Talk About Your Goals&lt;/h2&gt;&#xA;&lt;p&gt;Ready to start your health journey? Book a session directly using the calendar below.&lt;/p&gt;&#xA;&lt;p&gt;This 20-30 minute call is a chance for us to get to know each other, talk about your health goals, and see if my coaching program is the right fit for you. You’ll share what you’ve been struggling with, what you want to achieve, and what your day-to-day lifestyle looks like.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;Wanna chat? Fill out this form and I’ll get back to you in a jiffy.&lt;/p&gt;&#xA;&lt;p&gt;Name:&#xA;Email:&#xA;Message:&#xA;Button: Submit&lt;/p&gt;&#xA;&lt;h2 id=&#34;ready-to-start-your-journey&#34;&gt;Ready to Start Your Journey?&lt;/h2&gt;&#xA;&lt;p&gt;Let’s chat and see if we’re the right fit. Your free discovery call is a zero-pressure way to explore how coaching can help you feel your best.&lt;/p&gt;&#xA;&lt;p&gt;BUTTON: Book My Free Call&lt;/p&gt;</description>
     </item>
     <item>
       <title>Disclaimer &amp; Terms of Use</title>
-      <link>http://localhost:1313/disclaimer/</link>
+      <link>/disclaimer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/disclaimer/</guid>
+      <guid>/disclaimer/</guid>
       <description>&lt;p&gt;You Can Do It Health Coaching (Sole Proprietor)&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-educational--informational-purposes-only&#34;&gt;1. Educational &amp;amp; Informational Purposes Only&lt;/h2&gt;&#xA;&lt;p&gt;The content on this website, including any blog posts, guides, emails, downloadable materials, programs, or coaching services, is provided by You Can Do It Health Coaching for educational and informational purposes only. Nothing on this website is intended to be, nor should it be interpreted as, medical advice, diagnosis, or treatment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-not-medical-or-nutritional-therapy-advice&#34;&gt;2. Not Medical or Nutritional Therapy Advice&lt;/h2&gt;&#xA;&lt;p&gt;I am a Certified Nutrition Coach, not a medical doctor, registered dietitian, nurse, or licensed healthcare provider. The information on this website and in coaching sessions is not a substitute for professional medical advice, diagnosis, or treatment. Always consult with your physician or qualified healthcare provider before making any changes to your diet, exercise routine, medications, or health practices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meet Your Coach</title>
-      <link>http://localhost:1313/meet-your-coach/</link>
+      <link>/meet-your-coach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meet-your-coach/</guid>
+      <guid>/meet-your-coach/</guid>
       <description>&lt;p&gt;Hi, I’m Andrea - a 44-year-old mom of two, Certified Nutrition Coach, and someone who has collected more medical plot twists than most TV dramas. I’ve navigated a complicated pregnancy, treatment for a rare tumor, a hysterectomy, and even open-heart surgery for a congenital defect. (If you ever need someone to fill out complicated hospital paperwork quickly, I’m your girl.)&lt;/p&gt;&#xA;&lt;p&gt;Going through all of that completely reshaped how I think about health, stress, and self-care. Spoiler: it’s not about perfection, restriction, or pretending celery juice is a personality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy-policy/</link>
+      <link>/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
+      <guid>/privacy-policy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;You Can Do It Health Coaching&lt;/strong&gt; (Sole Proprietor)&#xA;&lt;strong&gt;Last Updated:&lt;/strong&gt; 11/25/25&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;You Can Do It Health Coaching (“I,” “me,” “my,” or “the business”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and safeguarded when you visit this website, sign up for emails, or participate in coaching services.&#xA;By using this website, you consent to the practices described in this Privacy Policy.&lt;/p&gt;</description>
     </item>
   </channel>
