@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex flex-column flex-row-ns justify-between items-start">
     <div>
@@ -10,7 +12,25 @@
     {{ if .Site.Menus.footer }}
     <div class="flex flex-wrap justify-center justify-end-ns pa3">
       {{ range .Site.Menus.footer }}
-        <a href="{{ .URL }}" class="link white-70 hover-white mr3 mr4-ns mb2">{{ .Name }}</a>
+        {{ if eq .Name "Instagram" }}
+          <a href="{{ .URL }}" class="link white-70 hover-white mr3 mr4-ns mb2" title="Instagram" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a>
+        {{ else if eq .Name "Facebook" }}
+          <a href="{{ .URL }}" class="link white-70 hover-white mr3 mr4-ns mb2" title="Facebook" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-facebook fa-lg"></i>
+          </a>
+        {{ else if eq .Name "TikTok" }}
+          <a href="{{ .URL }}" class="link white-70 hover-white mr3 mr4-ns mb2" title="TikTok" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-tiktok fa-lg"></i>
+          </a>
+        {{ else if eq .Name "YouTube" }}
+          <a href="{{ .URL }}" class="link white-70 hover-white mr3 mr4-ns mb2" title="YouTube" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-youtube fa-lg"></i>
+          </a>
+        {{ else }}
+          <a href="{{ .URL }}" class="link white-70 hover-white mr3 mr4-ns mb2">{{ .Name }}</a>
+        {{ end }}
       {{ end }}
     </div>
     {{ end }}
