@@ -30,3 +30,38 @@ theme = 'ananke'
     name = "Free Discovery Call"
     url = "/book-now/"
     weight = 3
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 1
+    
+  [[menu.footer]]
+    name = "Disclaimer"
+    url = "/disclaimer/"
+    weight = 2
+    
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 3
+    
+  [[menu.footer]]
+    name = "Instagram"
+    url = "http://instagram.com/youcandoithealth"
+    weight = 4
+    
+  [[menu.footer]]
+    name = "Facebook"
+    url = "https://www.facebook.com/profile.php?id=61583343905186"
+    weight = 5
+    
+  [[menu.footer]]
+    name = "TikTok"
+    url = "http://tiktok.com/@youcandoithealth"
+    weight = 6
+    
+  [[menu.footer]]
+    name = "YouTube"
+    url = "https://www.youtube.com/@youcandoithealth"
+    weight = 7
